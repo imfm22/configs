@@ -1,0 +1,38 @@
+================================
+
+www.zhihu.com
+
+INVERT
+img[alt=\[公式\]]
+
+================================
+
+yuque.com
+
+INVERT
+span.lake-math-content-preview-img
+span.lake-math-container
+
+================================
+
+zhuanlan.zhihu.com
+
+INVERT
+img[alt=\[公式\]]
+
+CSS
+img[alt=\[公式\]]{
+    background-color: transparent !important
+}
+
+================================
+
+classroom.udacity.com
+
+INVERT
+img
+
+CSS
+img {
+background-color: white !important
+}
