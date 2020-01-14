@@ -36,3 +36,11 @@ CSS
 img {
 background-color: white !important
 }
+
+================================
+
+opencv-python-tutroals.readthedocs.io/
+
+INVERT
+div.math > p > img
+img.math
