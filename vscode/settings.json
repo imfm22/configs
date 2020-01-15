@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "vscode-neovim.neovimPath": "C:/Users/bpg1/scoop/apps/neovim/current/bin/nvim.exe",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Mononoki NF', Monaco, 'Sarasa Term SC', Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontFamily": "Monaco, \"Sarasa Term SC\"",
+    "terminal.integrated.lineHeight": 1.1,
+    "vim.enableNeovim": true,
+    "vim.neovimPath": "C:\\Users\\bpg1\\scoop\\shims\\nvim.exe",
+    "vim.handleKeys": {
+        "<C-f>": false,
+        "<C-a>": false,
+        "<C-c>": false,
+        "<C-v>": false
+    },
+    "python.jediEnabled": false,
+    "python.condaPath": "C:/ProgramData/Anaconda3/Scripts/conda.exe"
+}
